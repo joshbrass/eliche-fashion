@@ -1,7 +1,7 @@
 import Header from '../../components/Header'
 import HeaderImage from '../../images/header_bg_4.jpg'
 import Card from '../../ui/Card'
-import { plans } from '../../data'
+import { plans } from '../../data.jsx'
 import './plans.css'
 
 

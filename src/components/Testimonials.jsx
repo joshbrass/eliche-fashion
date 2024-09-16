@@ -2,7 +2,7 @@ import SectionHead from "./SectionHead"
 import {ImQuotesLeft} from 'react-icons/im'
 import Card from "../ui/Card"
 import {IoIosArrowDropleftCircle, IoIosArrowDroprightCircle} from 'react-icons/io'
-import { testimonials } from "../data"
+import { testimonials } from "../data.jsx"
 import { useState } from "react"
 
 

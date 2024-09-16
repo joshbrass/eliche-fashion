@@ -1,5 +1,5 @@
 import { Link, NavLink } from 'react-router-dom'
-import {links} from '../data'
+import {links} from '../data.jsx'
 import './Navbar.css'
 import Logo from '../images/logo.png'
 import {FaBars} from 'react-icons/fa'

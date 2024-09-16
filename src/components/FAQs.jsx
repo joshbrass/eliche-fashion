@@ -2,7 +2,7 @@ import SectionHead from "./SectionHead"
 import { FaQuestion } from "react-icons/fa"
 // import { faqs } from "../data"
 import FAQ from "./FAQ"
-import { faqs } from "../data"
+import { faqs } from "../data.jsx"
 
 const FAQs = () => {
   return (

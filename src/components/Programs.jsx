@@ -1,6 +1,6 @@
 import {FaCrown} from 'react-icons/fa'
 import SectionHead from './SectionHead'
-import { programs } from '../data'
+import { programs } from '../data.jsx'
 // import Card from '../UI/Card.jsx'
 import { Link } from 'react-router-dom'
 import { AiFillCaretRight } from 'react-icons/ai'
